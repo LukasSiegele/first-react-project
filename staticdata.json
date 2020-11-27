@@ -1,0 +1,20 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image": "https://seeklogo.net/wp-content/uploads/2020/09/react-logo.png"
+        },
+         {
+            "title": "Intro to React 2",
+            "image": "https://seeklogo.net/wp-content/uploads/2020/09/react-logo.png"
+        },
+         {
+            "title": "Intro to React 3",
+            "image": "https://seeklogo.net/wp-content/uploads/2020/09/react-logo.png"
+        },
+         {
+            "title": "Intro to React 4",
+            "image": "https://seeklogo.net/wp-content/uploads/2020/09/react-logo.png"
+        }
+    ]
+}
