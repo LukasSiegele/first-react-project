@@ -90,5 +90,3 @@ const IndexPage = () => (
 )
 
 export default IndexPage
-
-// Test
