@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `My First React Page`,
+    description: `Lukas Siegele Interaction Designer from HfG Schwaebisch Gmuend now working at Intuity Media Lab GmbH.`,
+    author: `Lukas Siegele`,
+    keyword: "Nice, Design, Lukas, Siegele, HfG, Intuity",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
